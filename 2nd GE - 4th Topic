@@ -1,0 +1,12 @@
+4th Topic/ A
+--------------
+
+targetList = [1, 2, 3, -7, -7, ‘Hello’, -7, True]
+print(targetList)
+targetList = list(dict.fromkeys(targetList))
+print(targetList)
+
+
+4th Topic/ B
+--------------
+print(EAP["PLS60"]["student3"]["grades"]["PLS51"])
